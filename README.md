@@ -3,12 +3,12 @@
 Welcome to my GitHub! 
 
 ## About Me
-I'm a Frontend Developer with a passion for crafting responsive and efficient web applications. With over a year of experience, I specialize in React, Next.js, and TypeScript to bring dynamic user interfaces to life.
+I'm a Frontend Developer with a passion for crafting responsive and efficient web applications. With over 2 years of experience, I specialize in React, Next.js, and TypeScript to bring dynamic user interfaces to life.
 
 🚀 Tech Stack
     Languages: JavaScript, TypeScript, HTML, CSS
     Frameworks: React, Next.js
-    Styling: Tailwind CSS, Bootstrap, Material UI (MUI)
+    Styling: Tailwind CSS, Bootstrap, Material UI (MUI), Shadcn
     Version Control: Git, GitHub.
 
 🌱 Current Focus
