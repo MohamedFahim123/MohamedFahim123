@@ -9,8 +9,6 @@ Welcome to my GitHub!
 I'm a Frontend Developer with a passion for crafting responsive and efficient web applications. With over 2 years of experience, I specialize in React, Next.js, and TypeScript to bring dynamic user interfaces to life.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedFahim123&label=Profile views&color=0e75b6&style=flat" alt="MohamedFahim123" /> </p>
-
 - 🌱 I'm currently learning **Nest Js and postgreeSQL **
 
 - 📫 How to reach me **Email: mohamedfahim1045@gmail.com , phone: +201030678209 | +201093359827**
